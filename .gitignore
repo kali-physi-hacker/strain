@@ -1,0 +1,17 @@
+*.png
+*.jpg
+*.jpeg
+*.tex
+*.aux
+*.dvi
+*.log
+*.pdf
+*.out
+*.toc
+*.fls
+*.svg
+*.csv
+*.json
+*.toc
+venv
+.DS_Store
